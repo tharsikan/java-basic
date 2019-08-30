@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quick",
+            "request": "launch",
+            "mainClass": "Quick",
+            "projectName": "assignment2_cc0bfde1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Merge",
+            "request": "launch",
+            "mainClass": "Merge",
+            "projectName": "assignment2_cc0bfde1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - date2",
+            "request": "launch",
+            "mainClass": "date2",
+            "projectName": "assignment2_cc0bfde1"
+        }
+    ]
+}
